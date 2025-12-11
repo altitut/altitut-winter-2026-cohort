@@ -1,0 +1,22 @@
+{
+  "repository": {
+    "owner": "altitut",
+    "name": "altitut-winter-2026-cohort",
+    "mainBranch": "main"
+  },
+  "branchNaming": {
+    "pattern": "student-winter-2026-{studentID}",
+    "prefix": "student-winter-2026-",
+    "regex": "^student-winter-2026-[0-9]+$"
+  },
+  "cohort": {
+    "name": "Winter 2026",
+    "semester": "winter",
+    "year": 2026
+  },
+  "features": {
+    "autoInitialize": true,
+    "trackProgress": true,
+    "allowMultipleBranches": false
+  }
+}
